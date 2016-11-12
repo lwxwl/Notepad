@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="button_name">文字</string>
+    <string name="button_name2">图文</string>
+    <string name="button_name3">视频</string>
+    <string name="button_name4">保存</string>
+    <string name="button_name5">取消</string>
+</resources>
